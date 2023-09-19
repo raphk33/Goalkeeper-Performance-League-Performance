@@ -97,6 +97,8 @@ The line of best fit, often a linear regression line, provides a summarized tren
 
 ### Distribution of Goalkeeper Rankings:
 
+![ScatterPlotGoalieRankings](https://github.com/raphk33/Goalkeeper-Performance-League-Performance/blob/99487f65c672f3bd846412f1c878c173f3fb5f9b/DistributionofGoalies.png)
+
 To understand the distribution of goalkeeper rankings, we visualized the data using a distribution plot. This plot provides insights into the frequency and spread of the rankings across goalkeepers in the Serie A league. Specifically, it indicates:
 
 - **Central Tendency:** Where the majority of goalkeepers lie in terms of ranking.
