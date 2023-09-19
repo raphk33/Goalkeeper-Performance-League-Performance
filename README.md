@@ -89,7 +89,7 @@ Our primary quantitative finding was a correlation value of \(-0.70\) between go
 
 ### Scatterplot and Line of Best Fit:
 
-![ScatterPlotGoalieRankings](URL_TO_RAW_IMAGE)
+![ScatterPlotGoalieRankings](https://github.com/raphk33/Goalkeeper-Performance-League-Performance/blob/502eceaf4952ead41f80bb55f4b201e8bfd61f5b/ScatterPlotGoalieRankings.png)
 
 The scatterplot offers a visual representation of individual data points, showcasing the relationship between two quantitative variables - in this case, goalkeeper ranking and final league position. By visualizing these data points, one can discern patterns or trends in the data.
 
